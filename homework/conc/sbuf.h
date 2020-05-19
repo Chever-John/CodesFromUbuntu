@@ -1,3 +1,5 @@
+#include "csapp.h"
+
 typedef struct 
 {
     int *buf;
