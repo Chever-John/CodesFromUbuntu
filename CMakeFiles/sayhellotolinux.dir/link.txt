@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/sayhellotolinux.dir/main.cpp.o  -o sayhellotolinux -rdynamic 

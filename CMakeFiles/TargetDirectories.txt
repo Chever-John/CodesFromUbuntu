@@ -1,0 +1,3 @@
+/home/demo/CMakeFiles/edit_cache.dir
+/home/demo/CMakeFiles/rebuild_cache.dir
+/home/demo/CMakeFiles/sayhellotolinux.dir
